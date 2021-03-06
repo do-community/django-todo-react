@@ -1,3 +1,5 @@
+https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
+
 ## Introduction
 
 This is a simple Todo application built off Django (including the Django REST Framework for API CRUD operations) and React. For a complete walkthrough, see [Build a To-Do application Using Django and React](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react/edit)
